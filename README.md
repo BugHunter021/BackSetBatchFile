@@ -1,5 +1,6 @@
-this file put CMD with access Administrator on Sticky keys
-and with press Shift button Keyboard for meny time run it
+# about 
+- this file set `CMD.exe` with access Administrator on `Sticky keys` software
+- and with press Shift button Keyboard for meny time run it
 
 <h3 align="left">Connect with me:</h3>
 	
