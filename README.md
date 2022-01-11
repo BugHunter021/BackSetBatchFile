@@ -3,6 +3,14 @@
 - and with press Shift button Keyboard for meny time run it
 
 ## how to use
+1. set password for run CMD at line 2
+```bash
+set $pass=PassWord
+```
+2. run it.
+3. press shift key for meny time
+
+
 <h3 align="left">Connect with me:</h3>
 	
 TelegramID : [@mrbugbounty](https://t.me/mrbugbounty)
