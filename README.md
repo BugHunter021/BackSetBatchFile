@@ -7,7 +7,7 @@
 ```bash
 set $pass=PassWord
 ```
-2. run it.
+2. run it and wate to close batchfile automaticaly.
 3. press shift key for meny time
 
 
